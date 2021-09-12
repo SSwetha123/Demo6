@@ -1,0 +1,10 @@
+cd
+ls
+ls -a
+mkdir
+rmdir
+less
+cat
+vi 
+nano 
+
